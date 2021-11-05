@@ -2,7 +2,7 @@
 // @name         Bilibili直播弹幕屏蔽
 // @namespace    https://windrises.net
 // @version      0.1
-// @description  Bilibili直播弹幕屏蔽
+// @description  屏蔽底端弹幕等
 // @author       windrises
 // @run-at       document-end
 // @require      http://code.jquery.com/jquery-1.8.3.min.js
